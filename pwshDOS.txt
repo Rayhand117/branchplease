@@ -1,0 +1,3 @@
+for ($i=0; $i -lt 1000; $i++) {
+  Invoke-WebRequest -Uri https://simakpro.totalindobangunusa.com/
+}
